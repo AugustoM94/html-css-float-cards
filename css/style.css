@@ -3,9 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-:root {
-    
-}
+
 
 .clearfix::after{
     content:"";
@@ -23,14 +21,14 @@ body {
     color: black;
 }
 
-header {
-    background-color:  #BAB9B9;
-}
 h1 {
-    font-size: 50px;
+    font-size: 40px;
     text-align: center;
-    padding: 50px;
-    color: #A23156;
+    padding: 40px;
+    color:#a32350;
+    margin-bottom: 20px;
+     font-family: "Fredoka,cursive";
+
 }
 
 
@@ -43,20 +41,20 @@ h1 {
     background-color: black;
     color: #FFFFFE;
     margin-top: 20px;
-    width: calc(100% / 3);
-    padding: 10px;
-    
-
+    width: 360px;
+    margin-right: 30px;
+    margin-bottom: 40px;
 }
+
 img {
     float: left;
     width: 100px;
+    margin-right: 10px;
 }
 
 h2 {
     margin-bottom: 10px;
     margin-top: 10px;
-    padding-left: 5px;
 }
 .email {
    padding: 10px;
@@ -66,6 +64,7 @@ h2 {
 .pull-left{
     float: left;
 }
-h5 {
-  padding-left:  5px;
+
+span {
+    text-align: middle;
 }
