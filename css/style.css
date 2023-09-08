@@ -28,6 +28,7 @@ h1 {
     color:#a32350;
     margin-bottom: 20px;
      font-family: "Fredoka,cursive";
+     font-weight: bold;
 
 }
 
@@ -35,6 +36,7 @@ h1 {
 .paragraph {
     padding-bottom: 20px;
     font-size: 18px;
+    text-align: center;
 }
 
 .big-box {
@@ -65,7 +67,3 @@ h2 {
     float: left;
 }
 
-span {
-    text-align: center;
-    display: block;
-}
