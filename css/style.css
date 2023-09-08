@@ -66,5 +66,6 @@ h2 {
 }
 
 span {
-    text-align: middle;
+    text-align: center;
+    display: block;
 }
